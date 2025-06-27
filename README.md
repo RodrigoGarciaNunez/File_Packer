@@ -1,1 +1,1 @@
-This script is a simple extension-packer to give some order to yur messy directories  :) 
+This script is a simple packer by extention to give some order to your messy directories.  :) 
